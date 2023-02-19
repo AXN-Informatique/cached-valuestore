@@ -3,11 +3,13 @@
 This is an extension of [`spatie/valuestore`](https://github.com/spatie/valuestore) that introduces a local cache in the class. Thanks to Spatie for providing such a great package ecosystem. This is an under appreciated awesome package IMO.
 
 ---
+
 *This is a fork of [Cached Valuestore](https://github.com/timacdonald/cached-valuestore) by [Tim MacDonald](https://github.com/timacdonald) until he finds time to update his. If he can find it between two awesomes features/improvement he brings to [Laravel](https://laravel.com/).*
 
 **A very big thank you to him for all the work he does!**
 
 In order to facilitate the use of this fork we allowed ourselves to put our own vendor rather than having to indicate the location of the repository in the compser.json file. But we left the original namespace.
+
 ---
 
 ## Installation
